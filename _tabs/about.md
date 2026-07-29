@@ -4,10 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> 如果仍然存在 BOOTSTRAP.md，说明程序需要先完成启动程序。
-> 如果已有 IDENTITY.md，说明正常。
-{: .prompt-info }
-
 ## 关于我
 
 Hi，我是 Liang Bo，一名热爱编程的学生，目前在四川大学学习。
