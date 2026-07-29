@@ -1,0 +1,9 @@
+# 把你的图片放在这里，例如：
+#   avatar.jpg      （头像）
+#   cover.jpg       （文章封面）
+#   photo-2026.jpg  （博客配图）
+#
+# 在文章/页面里引用：
+#   ![说明文字](/assets/img/cover.jpg)
+#
+# 设为头像：在 _config.yml 里写  avatar: /assets/img/avatar.jpg
