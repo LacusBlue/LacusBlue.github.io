@@ -7,6 +7,10 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
+- type: zhihu
+  icon: "fa-brands fa-zhihu"
+  url: "https://www.zhihu.com/people/zhivtryaf"
+
 - type: rss
   icon: "fas fa-rss"
   noblank: true
