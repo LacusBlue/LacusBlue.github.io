@@ -14,6 +14,14 @@ platforms:
     icon: "fab fa-telegram"
     link: "https://t.me/share/url?url=URL&text=TITLE"
 
+  - type: Zhihu
+    icon: "fa-brands fa-zhihu"
+    link: "https://www.zhihu.com/people/zhivtryaf"
+
+  - type: WeChat
+    icon: "fa-brands fa-weixin"
+    link: "https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=URL"
+
   # Uncomment below if you need to.
   #
   # - type: Linkedin
